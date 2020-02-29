@@ -1,0 +1,12 @@
+[
+  {
+    "key": "webElementininAdi",
+    "value": "webElementininSayfadakiSelectoru",
+    "type": "Selector tipi (id,xpath,css)"
+  },
+  {
+    "key": "OrnekElement",
+    "value": "div>input.password",
+    "type": "css"
+  }
+]
